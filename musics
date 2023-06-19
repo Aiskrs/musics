@@ -1,0 +1,865 @@
+[
+
+	{
+		"dataName": "music009000",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9000,
+			"str": "朝你大跨捏一把"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "CHAONIDAKUANIEYIBA",
+		"artistName": {
+			"id": 9000,
+			"str": "毛家超"
+		},
+		"genreName": {
+			"id": 107,
+			"str": "C-POP"
+		},
+		"bpm": 147,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9000,
+			"str": "朝你大跨捏一把"
+		},
+		"cueName": {
+			"id": 9000,
+			"str": "朝你大跨捏一把"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/0/0.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/0/1.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/0/2.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/0/3.ma2"
+			},
+			"level": 12,
+			"levelDecimal": 4,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "MYOU"
+			},
+			"notesType": 0,
+			"musicLevelID": 17,
+			"maxNotes": 835,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/0/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/0/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9000,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/0.png",
+		"thumbnailName": "_online/jacket/0.png",
+		"rightFile": "",
+		"priority": 0
+	},
+
+	{
+		"dataName": "music009001",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9001,
+			"str": "DX超性能フルメタル少女"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "DXCHAOXINGNENGSHAONV",
+		"artistName": {
+			"id": 9001,
+			"str": "IOSYS TRAX (uno with.ちよこ) "
+		},
+		"genreName": {
+			"id": 104,
+			"str": "ゲーム＆バラエティ"
+		},
+		"bpm": 160,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9001,
+			"str": "DX超性能フルメタル少女"
+		},
+		"cueName": {
+			"id": 9001,
+			"str": "DX超性能フルメタル少女"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/1/0.ma2"
+			},
+			"level": 1,
+			"levelDecimal": 1,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "Sixper"
+			},
+			"notesType": 0,
+			"musicLevelID": 1,
+			"maxNotes": 666,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/1/1.ma2"
+			},
+			"level": 7,
+			"levelDecimal": 2,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "7-7-7"
+			},
+			"notesType": 0,
+			"musicLevelID": 7,
+			"maxNotes": 474,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/1/2.ma2"
+			},
+			"level": 12,
+			"levelDecimal": 3,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "Nhisper"
+			},
+			"notesType": 0,
+			"musicLevelID": 17,
+			"maxNotes": 555,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/1/3.ma2"
+			},
+			"level": 14,
+			"levelDecimal": 4,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "Masper"
+			},
+			"notesType": 0,
+			"musicLevelID": 21,
+			"maxNotes": 820,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/1/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/1/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9001,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/1.png",
+		"thumbnailName": "_online/jacket/1.png",
+		"rightFile": "",
+		"priority": 0
+	},
+
+	{
+		"dataName": "music009002",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9002,
+			"str": "难忘今宵"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "NANWANGJINXIAO",
+		"artistName": {
+			"id": 9002,
+			"str": "李谷一"
+		},
+		"genreName": {
+			"id": 107,
+			"str": "C-POP"
+		},
+		"bpm": 112,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9002,
+			"str": "难忘今宵"
+		},
+		"cueName": {
+			"id": 9002,
+			"str": "难忘今宵"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/2/0.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9002,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/2/1.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9002,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/2/2.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9002,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/2/3.ma2"
+			},
+			"level": 15,
+			"levelDecimal": 7,
+			"notesDesigner": {
+				"id": 9002,
+				"str": " "
+			},
+			"notesType": 0,
+			"musicLevelID": 24,
+			"maxNotes": 209,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/2/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9002,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/2/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9002,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/2.png",
+		"thumbnailName": "_online/jacket/2.png",
+		"rightFile": "",
+		"priority": 0
+	},
+
+	{
+		"dataName": "music009003",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9003,
+			"str": "[プロセカ]限りなく灰色へ"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "XIANHUISE",
+		"artistName": {
+			"id": 9003,
+			"str": "東雲絵名"
+		},
+		"genreName": {
+			"id": 104,
+			"str": "ゲーム＆バラエティ"
+		},
+		"bpm": 108,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9003,
+			"str": "[プロセカ]限りなく灰色へ"
+		},
+		"cueName": {
+			"id": 9003,
+			"str": "[プロセカ]限りなく灰色へ"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/3/0.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/3/1.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/3/2.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/3/3.ma2"
+			},
+			"level": 12,
+			"levelDecimal": 7,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "luvlily"
+			},
+			"notesType": 0,
+			"musicLevelID": 18,
+			"maxNotes": 679,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/3/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/3/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9003,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/3.png",
+		"thumbnailName": "_online/jacket/3.png",
+		"rightFile": "",
+		"priority": 0
+	},
+
+	{
+		"dataName": "music009004",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9004,
+			"str": "Apollo"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "APOLLO",
+		"artistName": {
+			"id": 9004,
+			"str": "TJ.hangneil "
+		},
+		"genreName": {
+			"id": 106,
+			"str": "オンゲキCHUNITHM"
+		},
+		"bpm": 339,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9004,
+			"str": "Apollo"
+		},
+		"cueName": {
+			"id": 9004,
+			"str": "Apollo"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/4/0.ma2"
+			},
+			"level": 12,
+			"levelDecimal": 7,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "30分クッキング"
+			},
+			"notesType": 0,
+			"musicLevelID": 18,
+			"maxNotes": 1055,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/4/1.ma2"
+			},
+			"level": 14,
+			"levelDecimal": 2,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "AliCE 11"
+			},
+			"notesType": 0,
+			"musicLevelID": 21,
+			"maxNotes": 1508,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/4/2.ma2"
+			},
+			"level": 14,
+			"levelDecimal": 3,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "じょーじからの挑戦状 "
+			},
+			"notesType": 0,
+			"musicLevelID": 21,
+			"maxNotes": 1577,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/4/3.ma2"
+			},
+			"level": 14,
+			"levelDecimal": 4,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "aisaka.JK"
+			},
+			"notesType": 0,
+			"musicLevelID": 21,
+			"maxNotes": 1577,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/4/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/4/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9004,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/4.png",
+		"thumbnailName": "_online/jacket/4.png",
+		"rightFile": "",
+		"priority": 0
+	}, {
+		"dataName": "music009005",
+		"netOpenName": {
+			"id": 0,
+			"str": "Net190711"
+		},
+		"releaseTagName": {
+			"id": 1,
+			"str": "Ver1.00.00"
+		},
+		"disable": false,
+		"name": {
+			"id": 9005,
+			"str": "IndiHome Paket Phoenix"
+		},
+		"rightsInfoName": {
+			"id": 0,
+			"str": ""
+		},
+		"sortName": "INDIHOMEPAKETPHOENIX",
+		"artistName": {
+			"id": 9005,
+			"str": "IndiHome "
+		},
+		"genreName": {
+			"id": 101,
+			"str": "POPS＆アニメ"
+		},
+		"bpm": 130,
+		"AddVersion": {
+			"id": 999,
+			"str": "Online"
+		},
+		"movieName": {
+			"id": 9005,
+			"str": "IndiHome Paket Phoenix"
+		},
+		"cueName": {
+			"id": 9005,
+			"str": "IndiHome Paket Phoenix"
+		},
+		"dressCode": false,
+		"eventName": {
+			"id": 1,
+			"str": "無期限常時解放"
+		},
+		"subEventName": {
+			"id": 0,
+			"str": "解放なし"
+		},
+		"lockType": 0,
+		"subLockType": 1,
+		"dotNetListView": true,
+		"notesData": [{
+			"file": {
+				"path": "_online/chart/5/0.ma2"
+			},
+			"level": 3,
+			"levelDecimal": 1,
+			"notesDesigner": {
+				"id": 9005,
+				"str": " "
+			},
+			"notesType": 0,
+			"musicLevelID": 3,
+			"maxNotes": 113,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/5/1.ma2"
+			},
+			"level": 7,
+			"levelDecimal": 2,
+			"notesDesigner": {
+				"id": 9005,
+				"str": " "
+			},
+			"notesType": 0,
+			"musicLevelID": 7,
+			"maxNotes": 278,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/5/2.ma2"
+			},
+			"level": 9,
+			"levelDecimal": 3,
+			"notesDesigner": {
+				"id": 9005,
+				"str": "夜梨 "
+			},
+			"notesType": 0,
+			"musicLevelID": 11,
+			"maxNotes": 394,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/5/3.ma2"
+			},
+			"level": 12,
+			"levelDecimal": 4,
+			"notesDesigner": {
+				"id": 9005,
+				"str": "夜梨"
+			},
+			"notesType": 0,
+			"musicLevelID": 17,
+			"maxNotes": 592,
+			"isEnable": true
+		}, {
+			"file": {
+				"path": "_online/chart/5/4.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9005,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}, {
+			"file": {
+				"path": "_online/chart/5/5.ma2"
+			},
+			"level": 0,
+			"levelDecimal": 0,
+			"notesDesigner": {
+				"id": 9005,
+				"str": "-"
+			},
+			"notesType": 0,
+			"musicLevelID": 0,
+			"maxNotes": 0,
+			"isEnable": false
+		}],
+		"jacketFile": "_online/jacket/5.png",
+		"thumbnailName": "_online/jacket/5.png",
+		"rightFile": "",
+		"priority": 0
+	}
+
+]
